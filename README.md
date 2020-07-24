@@ -3,7 +3,7 @@ You can add an item or delete with this small interface.
 <br>
 Currently it doesn't have a database to record but will be adding in sometimes.
 # Prerquisites
-You need to know basic nodejs and learn http requests i.e post,push,put and delete.
+You need to know basic nodejs and learn http requests i.e post,get,put and delete.
 <br>
 Handling requests using jQuery ajax.
 # Project setup
